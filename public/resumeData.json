@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Gaurav Dasgupta",
+    "occupation": "Software Engineer",
+    "description": "A software developer, Blogger, Youtuber and Cyclist by passion. I am a nature lover with a very keen interest in music. I love sharing my knowledge and thus have my Youtube channel. I am also a contributor in platforms like inDepth.dev, Node-RED and few others. I write technical articles on medium.com",
+    "image": "profilepic.png",
+    "bio": "Dynamic, self motivated and empathetic person. I love working on frontend and also like to indulge myself into the complete product architecture whether its backend microservices or the cloud cluster technologies like docker, kubernetes and AWS. I am very much intrested in machine learning and have started learning Keras, Pandas and basic data cleaning operations using Python and Javascript as the language. Other than this I believe in sharing one's knowledge with others in the community, so I have my own youtube channel and also I am a technical reviewer for indepthd.dev and contributor of various open source technologies.",
+    "contactmessage": "I love to connect",
+    "email": "gaurav.dasgupta1690@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Noida",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.gauravdasgupta.com",
+    "resumedownload": "http://www.gauravdasgupta.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCU2ORXboj6_hQW1gnakzaVg",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Fullstack-Dev-Logs-105617651726377",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/DasguptaGaurav",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gauravdasgupta/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gauravdasgupta",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "medium",
+        "url": "https://dasguptagaurav.medium.com/",
+        "className": "fa fa-medium"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "BITS, Pilani",
+        "degree": "M.Tech - Software Engineering",
+        "graduated": "Dec 2015",
+        "description": "I was working as a software engineer with Wipro Technologies and was having my M.Tech education being done at the same time and same place. It was WORK INTEGRATED CLASSROOM PROGRAMME"
+      },
+      {
+        "school": "National P.G. College, Univ of Lucknow",
+        "degree": "Bachelors of Computer Applications",
+        "graduated": "May 2011",
+        "description": "It was a professionally inclined degree course of 3 years and I worked with Government of Uttar Pradesh as part of my final year project submission. I developed the Birth and Death Registration system using C Sharp and ASP.NET"
+      }
+    ],
+    "work": [
+      {
+        "company": "censhare",
+        "title": "Senior Software Engineer ",
+        "years": "Feb 2020 - Present",
+        "description": "Product based organisation, censhare is the core platform/software focussed on Content Management, Digital Asset Management and Product Info Management"
+      },
+      {
+        "company": "SCA Technologies",
+        "title": "Technical Lead",
+        "years": "March 2018 - November 2019",
+        "description": "It was product development focussed on cost estimations and forecasts for food chain market like Mac Donald's, KFC, etc."
+      },
+      {
+        "company": "HCL Technologies",
+        "title": "Senior Consultant",
+        "years": "May 2016 - March 2018",
+        "description": "I was doing major frontend development using Angular and Springboot on backend for the USA based railways company BNSF"
+      },
+      {
+        "company": "WIPRO Technologies",
+        "title": "Senior Software Engineer",
+        "years": "July 2011 - April 2016",
+        "description": "Worked with 2 major manufacturing and Telecom companies, Lexmark and Vodafone-UK for frontend and backendd development"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "Angular",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "My Medium Blogs",
+        "category": "Technical and semi technical articles on medium written by myself and purely my thoughts",
+        "image": "medium.png",
+        "url": "https://dasguptagaurav.medium.com/"
+      },
+      {
+        "title": "Fullstack Dev Logs",
+        "category": "My youtube channel where I share my learnings for all",
+        "image": "youtube-channel.png",
+        "url": "https://www.youtube.com/channel/UCU2ORXboj6_hQW1gnakzaVg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}

@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "A software developer, Blogger, Youtuber and Cyclist by passion. I am a nature lover with a very keen interest in music. I love sharing my knowledge and thus have my Youtube channel. I am also a contributor in platforms like inDepth.dev, Node-RED and few others. I write technical articles on medium.com",
     "image": "profilepic.png",
-    "bio": "Dynamic, self motivated and empathetic person. I love working on frontend and also like to indulge myself into the complete product architecture whether its backend microservices or the cloud cluster technologies like docker, kubernetes and AWS. I am very much intrested in machine learning and have started learning Keras, Pandas and basic data cleaning operations using Python and Javascript as the language. Other than this I believe in sharing one's knowledge with others in the community, so I have my own youtube channel and also I am a technical reviewer for indepthd.dev and contributor of various open source technologies.",
+    "bio": "Dynamic, self motivated and empathetic person. I love working on frontend and also like to indulge myself into the complete product architecture whether its backend microservices or the cloud cluster technologies like docker, kubernetes and AWS. I am very much intrested in machine learning and have started learning Keras, Pandas and basic data cleaning operations using Python and Javascript as the language. Other than this I believe in sharing one's knowledge with others in the community, so I have my own youtube channel and also I am a technical reviewer for indepthd.dev and contributor to various open source technologies.",
     "contactmessage": "I love to connect",
     "email": "gaurav.dasgupta1690@gmail.com",
     "phone": "555-555-5555",
@@ -50,7 +50,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Total 10 years of working experience in software development. Had started as a Java Developer and gradually picked up Javascript in the form of Ajax and DHTMLX, this liking gradually introduced me to bootstrap and then to Angular. Since then I have been working on all sorts of frameworks like Angular, React and Ember. I have a very keen interest in architecture and microservices which keeps me a bit handy with Java, Springboot, Containerization technologies and tools like Docker, Kubernetes and AWS. From the last 1 year along with frontend I am also playing a bit with Node-RED. Machine Learning is something where I am true learner and I need to start working out on small projects and kaggle notebooks.",
     "education": [
       {
         "school": "BITS, Pilani",
@@ -70,7 +70,7 @@
         "company": "censhare",
         "title": "Senior Software Engineer ",
         "years": "Feb 2020 - Present",
-        "description": "Product based organisation, censhare is the core platform/software focussed on Content Management, Digital Asset Management and Product Info Management"
+        "description": "Product based organisation, censhare is the core platform/software focused on Content Management, Digital Asset Management and Product Info Management"
       },
       {
         "company": "SCA Technologies",

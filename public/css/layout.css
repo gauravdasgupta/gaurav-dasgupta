@@ -11,10 +11,11 @@
    c. About Section
    d. Resume Section
    e. Portfolio Section
-   f. Call To Action Section
-   g. Testimonials Section
-   h. Contact Section
-   i. Footer
+   f. Technology Section
+   g. Call To Action Section
+   h. Testimonials Section
+   i. Contact Section
+   j. Footer
 
 ===================================================================== */
 
@@ -517,6 +518,47 @@ ul#nav li.current a { color: #F06000; }
 	filter:alpha(opacity=100);
 }
 
+/* ------------------------------------------------------------------ */
+/* f. Technology Section
+/* ------------------------------------------------------------------ */
+.grid-container {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-gap: 20px;
+ }
+
+ #technology {
+   background: #2B2B2B;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+}
+
+#technology a, #technology a:visited  { color: #fff; }
+#technology a:hover, #technology a:focus { color: #11ABB0; }
+
+#technology h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-bottom: 12px;
+}
+#technology p {
+   line-height: 30px;
+   color: #7A7A7A;
+}
+#technology .profile-pic {
+   position: relative;
+   width: 120px;
+   height: 120px;
+   border-radius: 100%;
+}
+#technology .contact-details { width: 41.66667%; }
+#technology .download {
+   width: 58.33333%;
+   padding-top: 6px;
+}
+#technology .main-col { padding-right: 5%; }
+
 /* popup modal */
 .popup-modal {
 	max-width: 550px;
@@ -584,7 +626,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* ------------------------------------------------------------------ */
-/* f. Call To Action Section
+/* g. Call To Action Section
 /* ------------------------------------------------------------------ */
 
 #call-to-action {
@@ -641,7 +683,7 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------
-/* g. Testimonials
+/* h. Testimonials
 /* ------------------------------------------------------------------ */
 
 #testimonials {
@@ -790,7 +832,7 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------ */
-/* h. Contact Section
+/* i. Contact Section
 /* ------------------------------------------------------------------ */
 
 #contact {
@@ -927,7 +969,7 @@ call-to-action .button {
 
 
 /* ------------------------------------------------------------------ */
-/* i. Footer
+/* j. Footer
 /* ------------------------------------------------------------------ */
 
 footer {
